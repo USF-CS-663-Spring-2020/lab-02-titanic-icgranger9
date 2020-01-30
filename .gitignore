@@ -1,2 +1,5 @@
+# Jupyter stuff
+.ipynb_checkpoints/
+
 # Wierd mac stuff
 .DS_Store
