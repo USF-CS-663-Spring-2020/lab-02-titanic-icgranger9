@@ -1,4 +1,5 @@
 # ignore the data
+*.csv
 
 # Jupyter stuff
 .ipynb_checkpoints/
